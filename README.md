@@ -154,7 +154,6 @@ A phishing detection platform that inspects URLs for threat indicators and gener
 </details>
 
 <details>
-<summary><b>🐍 Snake Game</b> &nbsp;|&nbsp; <code>Python</code> &nbsp;|&nbsp; Programming Fundamentals · Game Logic</summary>
 
 <br/>
 
@@ -205,7 +204,27 @@ A classic Snake game built in Python, demonstrating core programming concepts in
 </div>
 
 ---
+![](https://github-readme-activity-graph.vercel.app/graph?username=shrisai-07&theme=tokyo-night&hide_border=true&area=true)
 
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrisai-07/shrisai-07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrisai-07/shrisai-07/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/shrisai-07/shrisai-07/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🎯 Current Focus
 ## 🎯 Current Focus
 
 ```yaml
