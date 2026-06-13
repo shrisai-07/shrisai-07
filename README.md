@@ -1,329 +1,231 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,24,30&text=Shrisai%20Kolkondi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a2e,50:16213e,100:0f3460&text=Shrisai%20Kolkondi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20SOC%20Analyst%20Enthusiast&descSize=18&descAlignY=58&descColor=a8b4c4"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;SOC+Analyst+Enthusiast;Security+Operations+%7C+Threat+Detection;Identity+and+Access+Management;Building+Secure+Systems+and+Tools"/>
-
-<br>
-
-![](https://img.shields.io/badge/VIT_Bhopal-CSE_(Cybersecurity_&_Digital_Forensics)-6D28D9?style=for-the-badge)
-
-<br>
-
-<a href="https://github.com/shrisai-07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<br/>
 
 <a href="https://www.linkedin.com/in/shrisai-kolkondi-326781324/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Shrisai%20Kolkondi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
+<a href="https://github.com/shrisai-07">
+  <img src="https://img.shields.io/badge/GitHub-shrisai--07-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20SOC%20Roles-22c55e?style=flat-square"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=shrisai-07&style=flat-square&color=6366f1&label=Profile+Views"/>
 
-<br><br>
+<br/><br/>
 
-![](https://komarev.com/ghpvc/?username=shrisai-07&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/shrisai-07?style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/stars/shrisai-07?affiliations=OWNER&style=for-the-badge&color=7C3AED)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=SOC+Operations+%7C+Threat+Detection+%7C+SIEM+Engineering;Microsoft+Sentinel+%7C+Splunk+%7C+Log+Analysis;Identity+Security+%7C+Zero+Trust+%7C+Incident+Response;VIT+Bhopal+%E2%80%94+CSE+(Cybersecurity+%26+Digital+Forensics)"/>
 
 </div>
 
 ---
 
-# About Me
+## 👋 About Me
 
-Cybersecurity student specializing in **Security Operations, Threat Detection, Identity Security, and Defensive Security Engineering**.
+I'm a **Cybersecurity student** at VIT Bhopal University (B.Tech — CSE, Cybersecurity & Digital Forensics), with hands-on SOC experience gained through a live internship at **Steel Authority of India Limited (SAIL)**. My focus areas are Security Operations, Threat Detection, SIEM Engineering, and Identity Security.
 
-I am currently pursuing a Bachelor's degree in Computer Science Engineering with specialization in **Cybersecurity & Digital Forensics** at VIT Bhopal University.
+I build projects that turn cybersecurity concepts into working systems — from authentication risk engines to phishing detection platforms — while deepening my understanding of enterprise-grade defensive security.
 
-My interests revolve around:
-
-- Security Operations Center (SOC) workflows
-- Incident Detection & Response
-- Threat Monitoring
-- Identity & Access Management
-- Risk-Based Authentication
-- SIEM Engineering
-- Web Security
-- Zero Trust Architecture
-
-I enjoy building projects that transform cybersecurity concepts into practical, explainable systems while strengthening my understanding of enterprise security operations.
-
-### Open To
-
-- Cybersecurity Internships
-- SOC Analyst Intern Roles
-- Cybersecurity Analyst Intern Roles
-- Security Research Opportunities
-- Open Source Security Projects
-- Threat Detection Projects
+> 🔍 **Currently open to:** SOC Analyst Internships · Cybersecurity Analyst Roles · Security Research · Open Source Projects
 
 ---
 
-# Security Toolkit
+## 💼 Professional Experience
 
-## Languages
+<table>
+<tr>
+<td width="80" align="center">
+<img src="https://img.shields.io/badge/SAIL-2026-1e3a5f?style=for-the-badge" alt="SAIL"/>
+</td>
+<td>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
-</p>
+### Cybersecurity Intern — SOC Operations
+**Steel Authority of India Limited (SAIL)** &nbsp;|&nbsp; May 2026 – June 2026
 
-## Security & Development Tools
+Embedded with the SOC operations team supporting real-time security monitoring and incident investigation across enterprise environments.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,bash,vscode" />
-</p>
+**Key contributions:**
+- Monitored SIEM dashboards (Splunk, Microsoft Sentinel) for suspicious activity across enterprise endpoints and networks
+- Performed alert triage and prioritization, reducing analyst noise by focusing on high-fidelity events
+- Investigated security events through structured log analysis and correlation
+- Managed incident ticket workflows and escalated high-priority threats to senior analysts
+- Assisted in operational security reporting and documentation
 
-## Cloud & Security Platforms
+**Skills used:** `Splunk` `Microsoft Sentinel` `Log Analysis` `Alert Triage` `Incident Response` `SOC Operations` `Threat Monitoring`
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=azure" />
-</p>
-
----
-
-# Security Expertise
-
-| Domain | Proficiency | Details |
-|----------|-------------|----------|
-| SOC Operations | Intermediate | Alert monitoring, triage and investigation |
-| SIEM Monitoring | Intermediate | Splunk, Microsoft Sentinel |
-| Threat Detection | Intermediate | Security event analysis and correlation |
-| Incident Response | Intermediate | Incident handling and escalation workflows |
-| Identity Security | Intermediate | Risk-Based Authentication and Conditional Access |
-| IAM & Zero Trust | Intermediate | Context-aware access control models |
-| Security Monitoring | Intermediate | Log analysis and threat identification |
-| Web Security | Intermediate | Authentication, authorization and encryption concepts |
+</td>
+</tr>
+</table>
 
 ---
 
-# Featured Projects
+## 🔧 Security Expertise
+
+| Domain | Level | Tools / Context |
+|---|---|---|
+| **SOC Operations** | ⭐⭐⭐ Intermediate | Alert monitoring, triage, investigation workflows |
+| **SIEM Monitoring** | ⭐⭐⭐ Intermediate | Splunk, Microsoft Sentinel — live enterprise use |
+| **Threat Detection** | ⭐⭐⭐ Intermediate | Security event analysis and correlation rules |
+| **Incident Response** | ⭐⭐⭐ Intermediate | Escalation workflows, ticket management |
+| **Identity Security** | ⭐⭐⭐ Intermediate | Risk-Based Authentication, Conditional Access |
+| **IAM & Zero Trust** | ⭐⭐⭐ Intermediate | Context-aware access control models |
+| **Log Analysis** | ⭐⭐⭐ Intermediate | Windows Event Logs, auth logs, network logs |
+| **Web Security** | ⭐⭐ Developing | Auth, authorization, encryption concepts |
+
+---
+
+## 🛠️ Technical Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Security & Operations**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
 
 <details>
-<summary><b>Risk-Based Authentication Simulator</b></summary>
+<summary><b>🔐 Risk-Based Authentication Simulator</b> &nbsp;|&nbsp; <code>Python</code> &nbsp;|&nbsp; Identity Security · Zero Trust</summary>
 
-### Overview
+<br/>
 
-A rule-based authentication risk simulator demonstrating how modern identity providers evaluate login attempts and make trust decisions.
+A rule-based authentication risk engine that models how enterprise identity providers evaluate login attempts and make real-time trust decisions.
 
-| Category | Details |
-|-----------|---------|
-| Stack | Python |
-| Scale | Multi-signal authentication evaluation |
-| Performance | Real-time rule evaluation |
-| Security | Zero Trust, Conditional Access, MFA Logic |
-| Impact | Demonstrates enterprise authentication decision-making |
-| Repository | Portfolio Project |
+**What it demonstrates:**
+- Multi-signal contextual risk evaluation (device, location, behaviour)
+- Dynamic trust scoring with MFA triggering logic
+- Conditional Access policy simulation
+- Zero Trust "never trust, always verify" principles
 
-### Key Highlights
-
-- Evaluates contextual login risk
-- Implements dynamic trust scoring
-- Simulates MFA triggering logic
-- Models Conditional Access decisions
-- Demonstrates Zero Trust principles
+**Why it matters:** Mirrors production IAM systems like Microsoft Entra ID and Okta — directly applicable to identity security roles.
 
 </details>
 
 <details>
-<summary><b>PassWarden Password Manager</b></summary>
+<summary><b>🔑 PassWarden — Secure Password Manager</b> &nbsp;|&nbsp; <code>Python · Flask · HTML/CSS</code> &nbsp;|&nbsp; Cryptography · Web Security</summary>
 
-### Overview
+<br/>
 
-A secure password manager showcasing modern credential protection techniques including hashing, encryption, authentication, and authorization.
+A multi-user password manager showcasing defence-in-depth credential protection across hashing, encryption, authentication, and authorization layers.
 
-| Category | Details |
-|-----------|---------|
-| Stack | Python, Flask, HTML, CSS |
-| Scale | Multi-user credential management |
-| Performance | Secure session-based access |
-| Security | bcrypt, Fernet Encryption |
-| Impact | Demonstrates secure credential storage |
-| Repository | Portfolio Project |
+**Security stack:**
+- `bcrypt` password hashing with salt rounds
+- `Fernet` symmetric encryption for credentials at rest
+- Session-based authentication with access control enforcement
+- Credential confidentiality and integrity guarantees
 
-### Key Highlights
-
-- bcrypt password hashing
-- Fernet encryption at rest
-- Session-based authentication
-- Access control enforcement
-- Credential confidentiality protection
+**Why it matters:** Demonstrates practical understanding of cryptographic primitives and secure web application design.
 
 </details>
 
 <details>
-<summary><b>Phishing Detection System</b></summary>
+<summary><b>🎣 Phishing Detection System</b> &nbsp;|&nbsp; <code>TypeScript · JavaScript · HTML/CSS</code> &nbsp;|&nbsp; Threat Detection · URL Analysis</summary>
 
-### Overview
+<br/>
 
-A phishing detection platform designed to identify suspicious URLs and provide risk-based assessments.
+A phishing detection platform that inspects URLs for threat indicators and generates risk-based assessments.
 
-| Category | Details |
-|-----------|---------|
-| Stack | TypeScript, HTML, CSS, JavaScript |
-| Scale | URL threat assessment |
-| Performance | Fast rule-based analysis |
-| Security | Phishing indicator detection |
-| Impact | Improves security awareness |
-| Repository | Portfolio Project |
+**Capabilities:**
+- URL structure inspection and pattern matching
+- Phishing indicator scoring and detection logic
+- Risk assessment output with explanations
+- Security awareness improvement tool
 
-### Key Highlights
-
-- URL inspection
-- Phishing pattern detection
-- Risk assessment generation
-- Security awareness enhancement
+**Why it matters:** Applies threat detection principles (indicator analysis, risk scoring) from SOC workflows to a real tool.
 
 </details>
 
 ---
 
-# Experience
+## 📜 Certifications
 
-## Cybersecurity Intern | SOC Operations
-
-### Steel Authority of India Limited (SAIL)
-
-**May 2026 – June 2026**
-
-Worked with SOC operations teams supporting monitoring and investigation activities across enterprise security environments.
-
-### Responsibilities
-
-- Monitored SIEM dashboards for suspicious activities.
-- Performed alert triage and prioritization.
-- Investigated security events using log analysis.
-- Managed incident ticket workflows.
-- Escalated high-priority security incidents.
-- Assisted in operational security reporting.
-
-### Skills
-
-`Splunk` `Microsoft Sentinel` `Log Analysis` `Incident Response` `SOC Operations` `Threat Monitoring`
+| Certification | Issuer | Focus |
+|---|---|---|
+| **Cybersecurity Professional Certificate** | Google | Core cybersecurity operations, tools, frameworks |
+| **Cybersecurity Certificate** | Microsoft | Security operations, cloud security, Azure |
+| **Pre-Security Path** | TryHackMe | Foundational cybersecurity concepts |
+| **Security 101** | TryHackMe | Security fundamentals and practical labs |
 
 ---
 
-# Achievements
-
-| Recognition | Details |
-|-------------|---------|
-| Google Cybersecurity Certificate | Professional cybersecurity training |
-| Microsoft Cybersecurity Certificate | Security operations and cloud security |
-| TryHackMe Pre-Security | Foundational cybersecurity concepts |
-| TryHackMe Security 101 | Security fundamentals and practical learning |
-
----
-
-# Certifications
-
-## Google
-
-![](https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google)
-
-## Microsoft
-
-![](https://img.shields.io/badge/Microsoft-Cybersecurity_Certificate-5E5E5E?style=for-the-badge&logo=microsoft)
-
-## TryHackMe
-
-![](https://img.shields.io/badge/TryHackMe-Pre_Security_Path-212C42?style=for-the-badge&logo=tryhackme)
-
-![](https://img.shields.io/badge/TryHackMe-Security_101-212C42?style=for-the-badge&logo=tryhackme)
-
----
-
-# GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrisai-07&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shrisai-07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrisai-07&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shrisai-07&theme=tokyonight&hide_border=true"/>
+<br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrisai-07&layout=compact&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shrisai-07&theme=tokyonight&hide_border=true)
+
+<br/>
+
+![](https://github-profile-trophy.vercel.app/?username=shrisai-07&theme=tokyonight&no-frame=true&margin-w=12&column=6)
 
 </div>
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=shrisai-07&theme=tokyonight&no-frame=true&margin-w=15)
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=shrisai-07&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/shrisai-07/shrisai-07/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# Current Focus
+## 🎯 Current Focus
 
 ```yaml
+Role_Target:    SOC Analyst Intern | Cybersecurity Analyst Intern
+Status:         Open to opportunities
+
 Learning:
-  - SOC Operations
-  - Threat Detection
-  - Incident Response
-  - Microsoft Sentinel
-  - Identity Security
+  - Advanced SIEM detection rule engineering (Sentinel KQL, Splunk SPL)
+  - Threat hunting methodologies
+  - MITRE ATT&CK framework mapping
+  - Cloud security (Azure Security Center)
 
 Building:
-  - Security Automation Projects
-  - Authentication Systems
-  - Detection Engineering Labs
+  - Security automation scripts
+  - Detection engineering labs
+  - Authentication and identity systems
 
 Exploring:
   - Zero Trust Architecture
-  - Cloud Security
-  - Threat Hunting
-  - SIEM Engineering
-
-Open_To:
-  - Cybersecurity Internships
-  - SOC Analyst Roles
-  - Security Research Projects
-  - Open Source Contributions
+  - Threat intelligence integration
+  - SOC playbook design
 ```
 
 ---
 
-# Connect
-
 <div align="center">
+
+*"Security is not a product. It is a continuous process."*
+
+<br/>
 
 <a href="https://www.linkedin.com/in/shrisai-kolkondi-326781324/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/shrisai-07">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/See%20My%20Work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-### "Security is not a product. Security is a continuous process."
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1a1a2e,50:16213e,100:0f3460"/>
 
 </div>
