@@ -58,7 +58,7 @@ I enjoy building projects that transform cybersecurity concepts into practical, 
 
 ---
 
-# Tech Stack
+# Security Toolkit
 
 ## Languages
 
@@ -66,22 +66,16 @@ I enjoy building projects that transform cybersecurity concepts into practical, 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
 </p>
 
-## Frontend
+## Security & Development Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,bash,vscode" />
 </p>
 
-## Backend & Databases
+## Cloud & Security Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flask,mysql" />
-</p>
-
-## Cloud, DevOps & Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,azure,vscode" />
+<img src="https://skillicons.dev/icons?i=azure" />
 </p>
 
 ---
@@ -185,6 +179,7 @@ A phishing detection platform designed to identify suspicious URLs and provide r
 # Experience
 
 ## Cybersecurity Intern | SOC Operations
+
 ### Steel Authority of India Limited (SAIL)
 
 **May 2026 – June 2026**
