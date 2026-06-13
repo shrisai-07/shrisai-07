@@ -7,9 +7,6 @@
 <br>
 
 ![](https://img.shields.io/badge/VIT_Bhopal-CSE_(Cybersecurity_&_Digital_Forensics)-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/CGPA-8.75-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Graduation-2028-5B21B6?style=for-the-badge)
-![](https://img.shields.io/badge/Bhilai-Chhattisgarh-4F46E5?style=for-the-badge)
 
 <br>
 
@@ -19,14 +16,6 @@
 
 <a href="https://www.linkedin.com/in/shrisai-kolkondi-326781324/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:shrisaik2002@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/shrisai-07">
-<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome"/>
 </a>
 
 <br><br>
@@ -53,7 +42,6 @@ My interests revolve around:
 - Identity & Access Management
 - Risk-Based Authentication
 - SIEM Engineering
-- Secure Application Development
 - Web Security
 - Zero Trust Architecture
 
@@ -98,18 +86,18 @@ I enjoy building projects that transform cybersecurity concepts into practical, 
 
 ---
 
-# AI / Security Expertise
+# Security Expertise
 
 | Domain | Proficiency | Details |
 |----------|-------------|----------|
-| Security Operations | Intermediate | Log analysis, alert triage, incident investigation |
+| SOC Operations | Intermediate | Alert monitoring, triage and investigation |
 | SIEM Monitoring | Intermediate | Splunk, Microsoft Sentinel |
-| Identity Security | Intermediate | Risk-Based Authentication, Conditional Access |
-| Threat Detection | Intermediate | Security event analysis and investigation |
-| Incident Response | Intermediate | Ticket handling and escalation workflows |
-| Web Security | Intermediate | Authentication, authorization, encryption concepts |
+| Threat Detection | Intermediate | Security event analysis and correlation |
+| Incident Response | Intermediate | Incident handling and escalation workflows |
+| Identity Security | Intermediate | Risk-Based Authentication and Conditional Access |
 | IAM & Zero Trust | Intermediate | Context-aware access control models |
-| Security Automation | Beginner-Intermediate | Rule-based security workflows |
+| Security Monitoring | Intermediate | Log analysis and threat identification |
+| Web Security | Intermediate | Authentication, authorization and encryption concepts |
 
 ---
 
@@ -129,7 +117,7 @@ A rule-based authentication risk simulator demonstrating how modern identity pro
 | Performance | Real-time rule evaluation |
 | Security | Zero Trust, Conditional Access, MFA Logic |
 | Impact | Demonstrates enterprise authentication decision-making |
-| Repository | Private / Portfolio Project |
+| Repository | Portfolio Project |
 
 ### Key Highlights
 
@@ -155,7 +143,7 @@ A secure password manager showcasing modern credential protection techniques inc
 | Performance | Secure session-based access |
 | Security | bcrypt, Fernet Encryption |
 | Impact | Demonstrates secure credential storage |
-| Repository | Private / Portfolio Project |
+| Repository | Portfolio Project |
 
 ### Key Highlights
 
@@ -176,7 +164,7 @@ A phishing detection platform designed to identify suspicious URLs and provide r
 
 | Category | Details |
 |-----------|---------|
-| Stack | TypeScript, CSS, HTML, JavaScript |
+| Stack | TypeScript, HTML, CSS, JavaScript |
 | Scale | URL threat assessment |
 | Performance | Fast rule-based analysis |
 | Security | Phishing indicator detection |
@@ -226,7 +214,6 @@ Worked with SOC operations teams supporting monitoring and investigation activit
 | Microsoft Cybersecurity Certificate | Security operations and cloud security |
 | TryHackMe Pre-Security | Foundational cybersecurity concepts |
 | TryHackMe Security 101 | Security fundamentals and practical learning |
-| VIT Bhopal University | CGPA 8.75 in Cybersecurity specialization |
 
 ---
 
@@ -245,36 +232,6 @@ Worked with SOC operations teams supporting monitoring and investigation activit
 ![](https://img.shields.io/badge/TryHackMe-Pre_Security_Path-212C42?style=for-the-badge&logo=tryhackme)
 
 ![](https://img.shields.io/badge/TryHackMe-Security_101-212C42?style=for-the-badge&logo=tryhackme)
-
-## Future Targets
-
-![](https://img.shields.io/badge/Microsoft-SC--900-7C3AED?style=for-the-badge)
-
-![](https://img.shields.io/badge/Cisco-CyberOps-1BA0D7?style=for-the-badge)
-
----
-
-# Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-DSA-0F9D58?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Coding-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive_Programming-5B4638?style=for-the-badge&logo=codechef"/>
-</a>
-
-</p>
 
 ---
 
@@ -356,20 +313,12 @@ Open_To:
 
 <div align="center">
 
-<a href="mailto:shrisaik2002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
 <a href="https://www.linkedin.com/in/shrisai-kolkondi-326781324/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/shrisai-07">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/shrisai-07">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge"/>
 </a>
 
 </div>
