@@ -153,23 +153,6 @@ A phishing detection platform that inspects URLs for threat indicators and gener
 
 </details>
 
-<details>
-<summary><b>🐍 Snake Game</b> &nbsp;|&nbsp; <code>Python</code> &nbsp;|&nbsp; Programming Fundamentals · Game Logic</summary>
-
-<br/>
-
-A classic Snake game built in Python, demonstrating core programming concepts including real-time event handling, collision detection, and state management.
-
-**What it covers:**
-- Real-time keyboard input and game loop design
-- Collision detection logic (walls, self)
-- Dynamic score tracking and game state management
-- Clean modular code structure
-
-**Why it matters:** Showcases fundamentals in Python — data structures, logic, and event-driven programming that underpin scripting and security tooling work.
-
-</details>
-
 ---
 
 ## 📜 Certifications
